@@ -2,7 +2,7 @@
 Resources to rapidly onboard new developers to the Blazor Clean Architecture Template
 
 ## Videos:
-1. [Basic Principles of Clean Architecture. Ignore the bit about Angular, since we will use Blazor Front-end](https://www.youtube.com/watch?v=dK4Yb6-LxAk&t=2s)
+1. [Basic Principles of Clean Architecture](https://www.youtube.com/watch?v=dK4Yb6-LxAk&t=2s). Ignore the bit about Angular, since we will use Blazor Front-end
 2. [Sub-cutaneous testing](https://www.youtube.com/watch?v=T6NRcX1vnz8&t=481s)
 3. [Vertical Slice Architecture](https://www.youtube.com/watch?v=oAoaMlS1PWo)
 4. [Introduction to Blazor](https://www.youtube.com/watch?v=CpbRAWgFBRQ). Note that this video refers to regular html controls such as `<select>`, `<input>` etc. In real world, we use a UI library such as Radzen Blazor or Telerik Blazor
